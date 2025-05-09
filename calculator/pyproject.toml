@@ -1,7 +1,7 @@
 [project]
-name = "code"
+name = "Calculator"
 version = "0.1.0"
-description = "Add your description here"
+description = "Simple calculator implemented to see how mcp works"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
