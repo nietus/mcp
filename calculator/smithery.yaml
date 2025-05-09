@@ -1,4 +1,5 @@
 version: 1
 startCommand:
-  command: ["python", "main.py"]
+  type: "http"
+  commandFunction: ["python", "main.py"]
 port: 8000
