@@ -1,4 +1,3 @@
 version: 1
-start:
-  command: ["python", "main.py"]
-  port: 8000
+startCommand: python main.py
+port: 8000
